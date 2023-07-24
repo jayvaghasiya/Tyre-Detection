@@ -1,5 +1,11 @@
 # Model Training (Yolo-nas):
 
+# Output
+
+<p align="center">
+  <img src="output/tyre.gif" alt="output">
+</p>
+
 # Steps :
 
 	1.Data gathering
