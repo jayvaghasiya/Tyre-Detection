@@ -34,5 +34,10 @@
 	Note: you might need to change the path to the model and video.
 	
 
-	
+# Model Evaluation:
+
+<img src="https://github.com/jayvaghasiya/Tyre-Detection/blob/main/Tyre-evaluation/F1_Score.jpg" alt="output" height=350 width=350>
+<img src="https://github.com/jayvaghasiya/Tyre-Detection/blob/main/Tyre-evaluation/Precision_Score.jpg" alt="output" height=350 width=350>
+<img src="https://github.com/jayvaghasiya/Tyre-Detection/blob/main/Tyre-evaluation/Recall_Score.jpg" alt="output" height=350 width=350>
+<img src="https://github.com/jayvaghasiya/Tyre-Detection/blob/main/Tyre-evaluation/mAP_Score.jpg" alt="output" height=350 width=350>
 
